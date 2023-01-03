@@ -1,0 +1,10 @@
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\bin\Debug\DTO.exe.config
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\bin\Debug\DTO.exe
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\bin\Debug\DTO.pdb
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.exe
+D:\Workspace\Lap-trinh-truc-quan\Project_BTL\DTO\obj\Debug\DTO.pdb
